@@ -1,0 +1,13 @@
+# Entorno virtual
+venv/
+
+# macOS
+__MACOSX/
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
