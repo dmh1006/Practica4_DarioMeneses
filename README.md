@@ -1,3 +1,4 @@
+![Trabajo realizado en la Universidad de Burgos](pics/escudo_COLOR_1L_DCHA.png)
 # Práctica 4 — Planificación de rutas hospitalarias mediante Algoritmos Genéticos
 
 **Autor:**
