@@ -59,38 +59,10 @@ Este ejercicio se plantea como una **ruta cerrada**, lo que añade complejidad a
 
 Al igual que en el ejercicio anterior, se comparan distintas configuraciones del algoritmo genético, evitando repetir exactamente las mismas configuraciones usadas en el ejercicio 1.
 
+
+
 ---
 
-## Entorno y dependencias
-
-Para garantizar la correcta ejecución de la práctica y la reproducibilidad de los resultados, el proyecto se ha desarrollado utilizando el siguiente entorno de trabajo:
-
-```yaml
-entorno:
-  lenguaje: Python
-  version_python: ">=3.10"
-
-dependencias:
-  - nombre: numpy
-    descripcion: Operaciones numéricas y manejo de arrays
-  - nombre: pandas
-    descripcion: Manipulación y análisis de datos
-  - nombre: matplotlib
-    descripcion: Generación de gráficas y visualización de resultados
-  - nombre: deap
-    descripcion: Implementación del algoritmo genético
-  - nombre: functools
-    descripcion: Utilidades del lenguaje (LRU cache)
-  - nombre: time
-    descripcion: Medición de tiempos de ejecución
-
-ejecucion:
-  notebook_principal: Practica4-Resolucion.ipynb
-  modo_ejecucion: "Ejecución secuencial de todas las celdas (Run All)"
-  salida:
-    - Tablas comparativas de resultados
-    - Gráficas de convergencia
-    - Visualización de rutas óptimas sobre el mapa del hospital
 
 ## Resultados obtenidos
 
@@ -133,4 +105,4 @@ Los resultados obtenidos son coherentes y justificables, y las visualizaciones f
 
 En conjunto, la práctica cumple los objetivos planteados y muestra la aplicabilidad de las técnicas de inteligencia artificial estudiadas a problemas reales del ámbito hospitalario.
 
-
+---
