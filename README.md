@@ -77,7 +77,14 @@ Para cada configuración se han analizado:
 
 En el **Ejercicio 1**, las distintas configuraciones convergen hacia soluciones de coste similar, aunque se observan diferencias claras en la velocidad de convergencia. Algunas configuraciones alcanzan rápidamente una solución estable, mientras que otras mantienen una mayor exploración durante más generaciones antes de estabilizarse.
 
+El médico sigue la siguiente ruta en el hospital:
+![Ruta Medico Ejericio 1](pics/ruta_optima_plano.png)
+
 En el **Ejercicio 2**, el comportamiento es similar, aunque el hecho de tratarse de una ruta cerrada introduce una mayor dependencia global entre los puntos visitados. Esto hace que pequeñas variaciones en el orden de visita tengan un impacto más notable en el coste total del recorrido.
+
+La ruta que sigue el robot es la siguiente:
+
+![Ruta Medico Ejericio 1](pics/ruta_optima_ej2.png)
 
 Las visualizaciones finales permiten comprobar que las rutas obtenidas son coherentes con la estructura real del hospital y respetan las restricciones impuestas por el mapa.
 
