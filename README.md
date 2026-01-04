@@ -5,8 +5,7 @@
 
 - Darío Meneses Hernández  
 
-**Asignatura:** Sistemas Inteligentes Aplicados a la Salud  
-**Curso:** 4º Año — 1er Cuatrimestre  
+**Asignatura:** Sistemas Inteligentes Aplicados a la Salud    
 **Centro:** Universidad de Burgos  
 
 ---
